@@ -1,0 +1,23 @@
+[user]
+    name = KumailShaerNaz
+    email = KumailShaerNaz@gmail.com
+
+[core]
+    editor = cursor
+    autocrlf = input
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
+[color]
+    ui = auto
+
+[pull]
+    rebase = false
+
+[init]
+    defaultBranch = main

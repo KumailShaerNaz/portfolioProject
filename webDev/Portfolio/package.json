@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "20240908 0359 Portfolio Website (NextJS, Tailwind, CSS, Taskwarrior, LaTex)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumailShaerNaz/portfolioProject.git"
+  },
+  "keywords": [
+    "NextJS",
+    "Tailwind",
+    "CSS",
+    "Taskwarrior",
+    "LaTex"
+  ],
+  "author": "Dawood, Kumail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumailShaerNaz/portfolioProject/issues"
+  },
+  "homepage": "https://github.com/KumailShaerNaz/portfolioProject#readme"
+}
